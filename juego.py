@@ -40,7 +40,7 @@ while opcion == 1:
     opcion = Personaje.mostrar_dialogo(prob)
 
 
-print("has huido!!!!")
+print("has huido!!!! El orco ha quedado atrás")
 
 
         
